@@ -11,7 +11,7 @@ A Estrutura de dados da entidade empreendimento, pode ser encontrado no arquivo 
 - [ ] Editar Empreendimento
 - [ ] Deletar Empreendimento
 - [ ] Utilizar MongoDB para salvar e estruturar dados
-- [ ] Alterar integração do frontend desse repositório
+- [ ] Alterar integração do frontend desse repositório para Node Server criado.
 - [ ] Hospedar gratuitamente em alguma plataforma: Heroku, netlify, aws, etc.
 - [ ] Subir no github, ou bitbucket e afins..
 
