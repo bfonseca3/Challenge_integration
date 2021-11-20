@@ -1,0 +1,19 @@
+{
+  "enterprises": [
+    {
+      "status": "Residencial",
+      "name": "Sirius Vila Bastos Alterado",
+      "purpose": "Comercial",
+      "address": {
+        "cep": "23548-163",
+        "city": "Rio de Janeiro",
+        "district": "RJ",
+        "street": "Rua 10",
+        "number": "12345",
+        "state": "RJ",
+        "formatedAddress": "Rua 10, 12345 - Sepetiba"
+      },
+      "id": 1
+    }
+  ]
+}
